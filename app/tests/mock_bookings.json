@@ -1,0 +1,58 @@
+[
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-03",
+    "price": 24500,
+    "id": 43,
+    "date_from": "2025-01-02"
+  },
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-03",
+    "price": 24500,
+    "id": 42,
+    "date_from": "2025-01-02"
+  },
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-03",
+    "price": 24500,
+    "id": 41,
+    "date_from": "2025-01-02"
+  },
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-02",
+    "price": 24500,
+    "id": 40,
+    "date_from": "2025-01-01"
+  },
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-02",
+    "price": 24500,
+    "id": 39,
+    "date_from": "2025-01-01"
+  },
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-02",
+    "price": 24500,
+    "id": 38,
+    "date_from": "2025-01-01"
+  },
+  {
+    "room_id": 1,
+    "user_id": 3,
+    "date_to": "2025-01-02",
+    "price": 24500,
+    "id": 37,
+    "date_from": "2025-01-01"
+  }
+]

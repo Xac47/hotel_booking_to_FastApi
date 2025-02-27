@@ -1,0 +1,38 @@
+[
+  {
+    "hashed_password": "tut_budet_hashed_password_1",
+    "email": "fedor@moloko.ru"
+  },
+  {
+    "hashed_password": "tut_budet_hashed_password_2",
+    "email": "sharik@moloko.ru"
+  },
+  {
+    "hashed_password": "$2b$12$gF0XncmKolFme4bQkEf96OgGpFx.61KMN28VZcuAl9LUAqvWZeg5.",
+    "email": "test@example.com"
+  },
+  {
+    "hashed_password": "$2b$12$5IXMSJvoNSEwDB7iiArKy.Rbqk/H9lVAgwQFOoPdxs4ou4RyHLxcG",
+    "email": "test2@example.com"
+  },
+  {
+    "hashed_password": "$2b$12$IuM2JW0PT32lGhwXDEedQetbNDgxWAZdYDB2OxIf4ZR1Ai0O3g/B2",
+    "email": "test3@example.com"
+  },
+  {
+    "hashed_password": "$2b$12$6CmSOgAvRnv9M8GRzXaMWeX1DvPxFl4RlZ2fsxOvg8FlnUHt2tdfS",
+    "email": "test3@example.com"
+  },
+  {
+    "hashed_password": "$2b$12$cmORTbbOCu0hzFUsUzl9OOqo29vwnGmFhpsdxWASiscTZeE5m26ai",
+    "email": "test3@example.com"
+  },
+  {
+    "hashed_password": "$2b$12$OyMFgHJ0YFttvzTobU/WKeAG9hgB9CnEvwEG.LWoqq4IsNFOmZOsS",
+    "email": "test4@example.com"
+  },
+  {
+    "hashed_password": "$2b$12$b85CZp9nH2ehqhZuBvzgaOYYOzM0aS3GhRT8qNhT.5.pIxGAJ1.kG",
+    "email": "test5@example.com"
+  }
+]
