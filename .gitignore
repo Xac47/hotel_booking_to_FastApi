@@ -1,0 +1,10 @@
+venv
+__pycache__
+.idea
+.env
+.env-non-dev
+.pytest_cache
+dump.rdb
+
+app/static/images/*
+!app/static/images/.gitkeep
